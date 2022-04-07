@@ -121,14 +121,14 @@ header nav ul li a:hover {
     background-color:coral;
     background-size: 10px ;
     color: black;
-    margin: 0;
+    margin: 0px;
     line-height: 50px;
     text-align: center;
     border-radius: 3px;
 }
 .button-1:hover
 {
-    color:blue;
+    color:greenyellow;
 }
 /* STEPS */
 #steps ul
@@ -279,6 +279,14 @@ footer
 }
 footer h1
 {
-    text-align: right;
+    text-align: center;
     padding: 20px;
+    padding-top: 80px;
+}
+.localisation
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    color: #777;
 }
