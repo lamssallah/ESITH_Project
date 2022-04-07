@@ -243,5 +243,42 @@ label
     font-weight: bold;
     font-size: 20px;
     margin-right: 10px;
-    color: bisque;
+    color: #777;
+}
+input
+{
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+}
+.button-3
+{
+    color: #efefef;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 11px;
+    background-color: deepskyblue;
+    border-style: none;
+    border-radius: 3px;
+}
+.button-3 :hover
+{
+    color: #efefef;
+    background-color: greenyellow;
+    
+}
+
+/*FOOTER*/
+
+footer
+{
+    height: 260px;
+    background-color: #444;
+}
+footer h1
+{
+    text-align: center;
+    padding: 20px;
 }
